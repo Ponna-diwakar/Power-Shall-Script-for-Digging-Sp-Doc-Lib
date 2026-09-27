@@ -1,5 +1,14 @@
 # Install the ImportExcel module if not already installed
 # Install-Module -Name ImportExcel -Scope CurrentUser
+# git init
+# git status
+# git add "All Sharepoint Sites Getting From Sp Admin Center.ps1"
+# (here i you want to all folder to push use ""git add ."")
+# git commit -m "This Script Loop All Sp Site From Admin Center And give you Excel Report "
+# git remote add origin "https://github.com/Ponna-diwakar/Power-Shall-Script-for-Digging-Sp-Doc-Lib.git"
+# git remote -v
+# git branch -M main
+# git push -u origin main
 
 
 # Variables
